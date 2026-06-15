@@ -1,0 +1,3 @@
+-- Dune query ID: 7726940
+-- Dashboard: ERC-4337 Paymaster Failure Matrix
+-- TODO: paste the final Dune SQL query here.

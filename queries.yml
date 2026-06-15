@@ -1,0 +1,4 @@
+queries:
+  - id: 7726940
+    name: ERC-4337 Paymaster Failure Matrix
+    file: queries/7726940_paymaster_failure_matrix.sql
