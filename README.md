@@ -6,13 +6,13 @@ The dashboard looks at failed UserOperations, failed fee spend, sender concentra
 
 ## Dashboard
 
-TODO: paste Dune dashboard link here
+https://dune.com/nerca7304/erc-4337-paymaster-failure-matrix?theme=dark&utm_source=share&utm_medium=copy&utm_campaign=dashboard
 
 ## Query
 
 Dune query ID: `7726940`
 
-TODO: paste the final SQL into:
+The SQL is in:
 
 `queries/7726940_paymaster_failure_matrix.sql`
 
@@ -39,11 +39,9 @@ This dashboard is meant to make those patterns easier to inspect.
 ## Files
 
 - `queries.yml` maps the Dune query ID to the local SQL file.
-- `queries/7726940_paymaster_failure_matrix.sql` is where the final Dune SQL goes.
+- `queries/7726940_paymaster_failure_matrix.sql` contains the Dune SQL.
 - `assets/` is for screenshots or exports from the dashboard.
 
 ## TODO
 
-- Paste the Dune dashboard link.
-- Paste the final SQL query.
 - Add a dashboard screenshot if needed.
